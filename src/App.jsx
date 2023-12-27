@@ -1,9 +1,9 @@
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Home from "./pages/Home";
 import Header from "./components/Header";
-import Profile from "./pages/profile";
-import Register from "./pages/register";
-import Login from "./pages/login";
+import Profile from "./pages/Profile";
+import Register from "./pages/Register";
+import Login from "./pages/Login";
 import { Context,server } from './main';
 import React from 'react'
 
